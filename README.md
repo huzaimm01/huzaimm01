@@ -1,4 +1,4 @@
-📓 UofT CE, Class of '29
+<h1>📓 UofT CE, Class of '29 </h1>
 🏆 Full Stack Developer
 🏅 Multiple-time Hackathon Winner
 🏁 Formula 4 Champion
