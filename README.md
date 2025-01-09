@@ -5,7 +5,6 @@
 <h3>🏆 Full Stack Developer</h3>
 <h3>🏅 Multiple-time Hackathon Winner</h3>
 <h3>🏁 Formula 4 Champion</h3>
-<h3>🥋 Black-Belt Martial Artist</h3>
 <h3>🎂 18 Years Old</h3>
 <h3>📍 Based in Toronto, Ontario</h3>
 </>
