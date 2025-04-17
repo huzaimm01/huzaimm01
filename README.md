@@ -9,7 +9,7 @@
 <h3>🎂 18 Years Old</h3>
 <h3>📍 Based in Toronto, Ontario</h3>
 </>
-(https://github-readme-stats.vercel.app/api?username=huzaimm01&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
 <!---
 huzaimm01/huzaimm01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
