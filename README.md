@@ -10,8 +10,6 @@
 <h3>📍 Based in Toronto, Ontario</h3>
 </>
 
-## 📊 GitHub Stats
-![Huzaim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzaimm01&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 
 <!---
