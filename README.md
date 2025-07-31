@@ -1,13 +1,8 @@
 
 <h1>Hi, I'm Huzaim. I am:</h1>
 
-<h3>📓 University of Toronto, Computer Engineering and Physics, Class of 2029 </h3>
-<h3>🏆 Full Stack Developer</h3>
-<h3>🏅 Multiple-time Hackathon Winner</h3>
-<h3>🏁 Formula 4 Champion</h3>
-<h3>🏁 Formula SAE member</h3>
-<h3>🎂 18 Years Old</h3>
-<h3>📍 Based in Toronto, Ontario</h3>
+<i class="fa-solid fa-book"></i><h3> University of Toronto, Computer & Mechanical Engineering, Class of 2029 </h3>
+<i class="fa-solid fa-map-pin"></i></i><h3>Based in Toronto, Ontario</h3>
 </>
 
 
