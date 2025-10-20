@@ -3,7 +3,7 @@
 <h3>📘 University of Toronto, Class of 2029 </h3>
 <h3>🔧 Computer & Mechanical Engineering Major, Physics Minor</h3>
 <h3>🏢 Based in Toronto, Ontario</h3>
-<h3>📆 18 Years Old</h3>
+<h3>📆 19 Years Old</h3>
 
 
 
